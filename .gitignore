@@ -1,0 +1,4 @@
+
+# raw Overture download used by scripts/build_buildings.py
+data/overture_buildings_raw.geojson
+data/overture_buildings_raw.geojson.state
